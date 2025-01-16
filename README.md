@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aya
-- 👀  interested in programming
+- 👀  interested in web & competitive programming 
 - 🌱 I’m currently learning ...
 
 
