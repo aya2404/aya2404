@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aya
 - 👀  interested in web & competitive programming 
-- 🌱 I’m currently learning ...
+- 🌱  currently learning(c++, backend, python , OOP , algorithm)
 
 
 <!---
