@@ -1,10 +1,10 @@
 ## Hi, I'm Aya ✨
 
-💻 Web developer passionate about creating frontend projects  
-🎨 Currently focusing on mastering JavaScript & React.js
-🛠️ Exploring backend development with Node.js & Python
-📚 Studying Git, GitHub, and using Visual Studio Code as my main editor  
-📈 Learning Algorithms and Object-Oriented Programming using C++ 
+💻 Web developer passionate about creating frontend projects  <br>
+🎨 Currently focusing on mastering JavaScript & React.js  <br>
+🛠️ Exploring backend development with Node.js & Python  <br>
+📚 Studying Git, GitHub, and using Visual Studio Code as my main editor   <br>
+📈 Learning Algorithms and Object-Oriented Programming using C++  <br>
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aya-abu-taha)
 
 
