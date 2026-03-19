@@ -1,4 +1,4 @@
-# 💫 About Me
+# ✨ About Me
 
 💻 Full Stack Web Developer passionate about building modern web applications  
 🎨 Currently focusing on **Frontend projects** and improving my **React.js skills**  
